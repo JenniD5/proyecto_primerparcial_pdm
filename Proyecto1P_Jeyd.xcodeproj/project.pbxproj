@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D07057826FAACCA001816EA /* pollito.mpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D07057726FAACCA001816EA /* pollito.mpeg */; };
+		3D07057B26FAB202001816EA /* baby-chicks-effects.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D07057926FAB202001816EA /* baby-chicks-effects.mp3 */; };
+		3D07057C26FAB202001816EA /* bee-effects.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D07057A26FAB202001816EA /* bee-effects.mp3 */; };
 		3D22BEA326F1744F00A7F1E8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D22BEA226F1744F00A7F1E8 /* AppDelegate.swift */; };
 		3D22BEA526F1744F00A7F1E8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D22BEA426F1744F00A7F1E8 /* ViewController.swift */; };
 		3D22BEA826F1744F00A7F1E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D22BEA626F1744F00A7F1E8 /* Main.storyboard */; };
@@ -15,6 +18,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D07057726FAACCA001816EA /* pollito.mpeg */ = {isa = PBXFileReference; lastKnownFileType = video.mpeg; path = pollito.mpeg; sourceTree = "<group>"; };
+		3D07057926FAB202001816EA /* baby-chicks-effects.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "baby-chicks-effects.mp3"; sourceTree = "<group>"; };
+		3D07057A26FAB202001816EA /* bee-effects.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bee-effects.mp3"; sourceTree = "<group>"; };
 		3D22BE9F26F1744F00A7F1E8 /* Proyecto1P_Jeyd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Proyecto1P_Jeyd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D22BEA226F1744F00A7F1E8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D22BEA426F1744F00A7F1E8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +64,9 @@
 				3D22BEA426F1744F00A7F1E8 /* ViewController.swift */,
 				3D22BEA626F1744F00A7F1E8 /* Main.storyboard */,
 				3D22BEA926F1745900A7F1E8 /* Assets.xcassets */,
+				3D07057926FAB202001816EA /* baby-chicks-effects.mp3 */,
+				3D07057A26FAB202001816EA /* bee-effects.mp3 */,
+				3D07057726FAACCA001816EA /* pollito.mpeg */,
 				3D22BEAB26F1745900A7F1E8 /* LaunchScreen.storyboard */,
 				3D22BEAE26F1745900A7F1E8 /* Info.plist */,
 			);
@@ -122,8 +131,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D07057B26FAB202001816EA /* baby-chicks-effects.mp3 in Resources */,
 				3D22BEAD26F1745900A7F1E8 /* LaunchScreen.storyboard in Resources */,
 				3D22BEAA26F1745900A7F1E8 /* Assets.xcassets in Resources */,
+				3D07057826FAACCA001816EA /* pollito.mpeg in Resources */,
+				3D07057C26FAB202001816EA /* bee-effects.mp3 in Resources */,
 				3D22BEA826F1744F00A7F1E8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
